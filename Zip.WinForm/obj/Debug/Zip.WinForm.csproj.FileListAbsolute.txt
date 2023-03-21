@@ -1,0 +1,16 @@
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.WinForm.exe.config
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.WinForm.exe
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.WinForm.pdb
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.Dal.dll
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.Entities.dll
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.Dal.pdb
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\bin\Debug\Zip.Entities.pdb
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.Form1.resources
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.Properties.Resources.resources
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.csproj.GenerateResource.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.csproj.CopyComplete
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.exe
+C:\Users\shaha\source\repos\CompressZipEx\Zip.WinForm\obj\Debug\Zip.WinForm.pdb

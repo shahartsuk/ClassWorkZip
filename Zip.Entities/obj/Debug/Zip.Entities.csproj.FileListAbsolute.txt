@@ -1,0 +1,9 @@
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\bin\Debug\Zip.Entities.dll
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\bin\Debug\Zip.Entities.pdb
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\bin\Debug\Zip.Dal.dll
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\bin\Debug\Zip.Dal.pdb
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\obj\Debug\Zip.Entities.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\obj\Debug\Zip.Entities.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\obj\Debug\Zip.Entities.csproj.CopyComplete
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\obj\Debug\Zip.Entities.dll
+C:\Users\shaha\source\repos\CompressZipEx\Zip.Entities\obj\Debug\Zip.Entities.pdb
