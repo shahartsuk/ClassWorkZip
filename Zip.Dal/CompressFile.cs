@@ -25,20 +25,20 @@ namespace Zip.Dal
                     lastIndex = pathToCompress.LastIndexOf('.');
 
                     // remove the Extension of the file
-                    zipPath = pathToCompress.Remove(lastIndex) + ".zip";
-
-                    //compress file to zip
-                    using (ZipArchive archive = ZipFile.Open(zipPath, ZipArchiveMode.Create))
+                    if(lastIndex > pathToCompress.Length - 4 || lastIndex < pathToCompress.Length - 2)
                     {
-                        archive.CreateEntryFromFile(pathToCompress, Path.GetFileName(pathToCompress));
+                        zipPath = pathToCompress.Remove(lastIndex) + ".zip";
+                        //compress file to zip
+                        using (ZipArchive archive = ZipFile.Open(zipPath, ZipArchiveMode.Create))
+                        {
+                            archive.CreateEntryFromFile(pathToCompress, Path.GetFileName(pathToCompress));
+                        }
+                        return "The operation was successful";
                     }
                 }
-                else
-                {
-                    //compress folder to zip
-                    zipPath = pathToCompress + ".zip";
-                    ZipFile.CreateFromDirectory(pathToCompress, zipPath);
-                }
+                 //compress folder to zip
+                 zipPath = pathToCompress + ".zip";
+                 ZipFile.CreateFromDirectory(pathToCompress, zipPath);
 
                 return "The operation was successful";
             }
